@@ -1,3 +1,8 @@
+The purpose of this is to learn the basics of React Hooks by making a form in both standard React and then remaking the form with the new hooks. 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
